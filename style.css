@@ -68,7 +68,7 @@ body {
 .card--bg--purple {
   background-color: hsl(263, 52%, 52%);
   color: white;
-  background-image: url(./images/bg-pattern-quotation.svg);
+  background-image: url(https://raw.githubusercontent.com/gudlad/testimonials-grid-section-main/7106ae3c16abefe0c9ada9023225f9ea4df8c8fe/images/bg-pattern-quotation.svg);
   background-repeat: no-repeat;
   background-position: top 10px right 100px;
 }
